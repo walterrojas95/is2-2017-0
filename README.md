@@ -6,4 +6,5 @@ Este es un proyecto de prueba del curso IS2, ciclo 2017-0
 
 -Block de Notas
 -GIT
+-Contacto
 
